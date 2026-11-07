@@ -1,0 +1,6 @@
+# 端末ごとに変わる画面状態は同期しない（競合の原因になる）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+.DS_Store
+__pycache__/
